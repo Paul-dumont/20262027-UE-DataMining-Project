@@ -1,4 +1,4 @@
-# Année 2026-2027 - M2IA/M2DS - UE Data Mining - Projet
+# Année 2026-2027 - M2IA/M2DS - UE Data Mining - Projet Groupe 9
 
 Sur ce repository, vous pourrez trouver l’ensemble des éléments
 nécessaire au projet de groupe de l’UE Data Mining pour l’année 2026-2027.
