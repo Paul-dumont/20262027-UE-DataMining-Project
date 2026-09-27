@@ -46,12 +46,31 @@ Toute ressemblance avec des personnes réelles, physiques ou morales, est totale
  
 ## Pour bien commencer
 
-1. Faites un `fork` de ce repository vers un noveau repository pour votre groupe.
+Ce projet utilise [uv](https://docs.astral.sh/uv/) pour gérer l’environnement Python
+et les dépendances (`pyproject.toml` + `uv.lock`).
+
+1. Faites un `fork` de ce repository vers un nouveau repository pour votre groupe.
 2. Clonez le repository de votre groupe sur votre machine.
-3. (Installez conda si ce n’est pas déjà fait)
-4. Installez les dépendances avec la commande: `conda create --name <envname> --file requirements.txt`
-5. Lancez le notebook avec la commande: `jupyter notebook nom-du-notebook.ipynb`
+3. Installez `uv` si ce n’est pas déjà fait:
+   * Linux / macOS: `curl -LsSf https://astral.sh/uv/install.sh | sh`
+   * Windows (PowerShell): `powershell -c "irm https://astral.sh/uv/install.ps1 | iex"`
+4. Installez l’environnement et les dépendances avec la commande: `uv sync`
+   (uv télécharge automatiquement la version de Python indiquée dans `.python-version`
+   et crée le virtualenv dans `.venv/`)
+5. Lancez le notebook avec la commande: `uv run jupyter notebook nom-du-notebook.ipynb`
+   (ou `uv run jupyter lab`)
 6. Travaillez en groupe et complétez le notebook
+
+### Commandes utiles
+
+* Ajouter une dépendance: `uv add nom-du-package`
+* Retirer une dépendance: `uv remove nom-du-package`
+* Exécuter une commande dans l’environnement: `uv run <commande>`
+* Mettre à jour le lockfile: `uv lock --upgrade`
+
+Le fichier `uv.lock` est versionné: il garantit que tous les membres du groupe
+travaillent avec exactement les mêmes versions de paquets. Pensez à le commiter
+après tout `uv add` / `uv remove`.
 
 ## Rendu
 
