@@ -7,12 +7,7 @@ Les sites sont regroupés en plusieurs clusters géographiques, notamment autour
 - 96,2 % des interventions sont des inspections de routine.
 - Malgré cela, environ 150 anomalies acoustiques ont été détectées, sans panne matérielle apparente.
 - Certaines anomalies semblent coïncider avec les interventions de prestataires spécifiques.
-- nombre_operations	disponibilite_moyenne	qualite_moyenne	nombre_pannes
-maintenance_provider				
-eco-service-1	1241	91.193715	78.098711	79
-eco-service-3	1239	92.800404	78.951332	43
-eco-service-2	1242	93.235749	79.728180	33
-eco-service-4	1240	92.879516	79.218952	33
+L'analyse des prestataires révèle une anomalie frappante : bien que les quatre équipes effectuent un volume d'interventions identique avec des performances globales similaires, l'équipe eco-service-1 concentre à elle seule la quasi-totalité des pannes déclarées (79 contre moins de 5 pour les autres).
 
 3. Impact agricole
 - Les notes agricoles sont presque toutes vides (98,16 %), ce qui limite l'identification des causes climatiques.
