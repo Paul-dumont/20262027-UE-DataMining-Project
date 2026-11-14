@@ -7,6 +7,11 @@ Les sites sont regroupés en plusieurs clusters géographiques, notamment autour
 - 96,2 % des interventions sont des inspections de routine.
 - Malgré cela, environ 150 anomalies acoustiques ont été détectées, sans panne matérielle apparente.
 - Certaines anomalies semblent coïncider avec les interventions de prestataires spécifiques.
+- voici les prestataires exacts qui ont enregistré des "maintenances de routine" avec un matériel fonctionnant parfaitement sur ces quatre sites entre janvier et mai 2024 :
+Sur KNT-KES : ECO-SERVICE-2
+Sur KNT-QWU : ECO-SERVICE-2
+Sur KNT-GGN : ECO-SERVICE-1
+Sur KNT-YRX : ECO-SERVICE-3
 3. Impact agricole
 - Les notes agricoles sont presque toutes vides (98,16 %), ce qui limite l'identification des causes climatiques.
 - La baisse des rendements est principalement associée à une chute du taux de nouaison.
