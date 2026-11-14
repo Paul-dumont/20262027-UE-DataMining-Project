@@ -1,0 +1,65 @@
+site_code,degree_centrality,betweenness_centrality,site_name,region
+KNT-KES,0.06349206349206349,0.005120327700972862,Kestrel Cavern Monitoring Site,kintara karst cluster
+KNT-LUM,0.06349206349206349,0.019969278033794162,Luma Karst Reserve Site,kintara karst cluster
+KNT-SEN,0.07936507936507936,0.009728622631848437,Senna Ridge Cave Site,kintara karst cluster
+AVL-MAR,0.06349206349206349,0.037378392217101895,Marula East Orchard Site,eastern avelora agricultural cluster
+AVL-VEL,0.047619047619047616,0.0,Velin Basin Orchard Site,eastern avelora agricultural cluster
+AVL-ORR,0.047619047619047616,0.0,Orra Research Orchard Site,eastern avelora agricultural cluster
+TMB-NAC,0.06349206349206349,0.006144393241167435,Nacre Coast Cave Site,tembara coastal cluster
+TMB-PEL,0.06349206349206349,0.025601638504864313,Pelagos Grove Monitoring Site,tembara coastal cluster
+KNT-CYP,0.06349206349206349,0.022017409114183307,Dune Reach Monitoring Site,kintara karst cluster
+KNT-YRX,0.047619047619047616,0.0,Garnet Garden Monitoring Site,kintara karst cluster
+KNT-GKR,0.07936507936507936,0.00409626216077829,Juniper Meadow Monitoring Site,kintara karst cluster
+KNT-NNM,0.09523809523809523,0.04864311315924219,Mango Valley Monitoring Site,kintara karst cluster
+KNT-JAK,0.047619047619047616,0.0,Pandan Grove Monitoring Site,kintara karst cluster
+KNT-JQG,0.07936507936507936,0.019457245263696875,Sable Coast Monitoring Site,kintara karst cluster
+KNT-VLB,0.06349206349206349,0.0,Vireo Ridge Monitoring Site,kintara karst cluster
+KNT-CHP,0.047619047619047616,0.0,Zephyr Forest Monitoring Site,kintara karst cluster
+KNT-YRG,0.09523809523809523,0.01638504864311316,Cedar Corridor Monitoring Site,kintara karst cluster
+KNT-WUQ,0.06349206349206349,0.0005120327700972862,Fern Hollow Monitoring Site,kintara karst cluster
+KNT-DMJ,0.07936507936507936,0.017921146953405017,Ivory Plateau Monitoring Site,kintara karst cluster
+KNT-GGN,0.06349206349206349,0.0,Lotus Basin Monitoring Site,kintara karst cluster
+KNT-QWU,0.047619047619047616,0.0030721966205837174,Osprey Wetland Monitoring Site,kintara karst cluster
+KNT-TLQ,0.07936507936507936,0.01638504864311316,Rattan Reserve Monitoring Site,kintara karst cluster
+KNT-UJJ,0.07936507936507936,0.025601638504864313,Umber Orchard Monitoring Site,kintara karst cluster
+KNT-VXR,0.06349206349206349,0.0,Yarrow Cavern Monitoring Site,kintara karst cluster
+KNT-TEX,0.047619047619047616,0.0010240655401945725,Banyan Reach Monitoring Site,kintara karst cluster
+KNT-BME,0.047619047619047616,0.01228878648233487,Ember Garden Monitoring Site,kintara karst cluster
+KNT-XAC,0.06349206349206349,0.0010240655401945725,Heron Meadow Monitoring Site,kintara karst cluster
+AVL-TRP,0.06349206349206349,0.0,Kora Valley Monitoring Site,eastern avelora agricultural cluster
+AVL-NFR,0.07936507936507936,0.061955965181771634,Nerine Grove Monitoring Site,eastern avelora agricultural cluster
+AVL-ARU,0.047619047619047616,0.0035842293906810036,Quartz Coast Monitoring Site,eastern avelora agricultural cluster
+AVL-GRB,0.047619047619047616,0.0,Tamarind Ridge Monitoring Site,eastern avelora agricultural cluster
+AVL-DER,0.047619047619047616,0.0,Willow Forest Monitoring Site,eastern avelora agricultural cluster
+AVL-HTY,0.06349206349206349,0.007168458781362007,Amber Corridor Monitoring Site,eastern avelora agricultural cluster
+AVL-RNY,0.06349206349206349,0.027649769585253454,Dune Hollow Monitoring Site,eastern avelora agricultural cluster
+AVL-ECJ,0.06349206349206349,0.0010240655401945725,Garnet Plateau Monitoring Site,eastern avelora agricultural cluster
+AVL-RBC,0.09523809523809523,0.00409626216077829,Juniper Basin Monitoring Site,eastern avelora agricultural cluster
+AVL-KAR,0.047619047619047616,0.0,Mango Wetland Monitoring Site,eastern avelora agricultural cluster
+AVL-YAU,0.07936507936507936,0.03481822836661547,Pandan Reserve Monitoring Site,eastern avelora agricultural cluster
+AVL-BWK,0.07936507936507936,0.013824884792626727,Sable Orchard Monitoring Site,eastern avelora agricultural cluster
+AVL-BVM,0.047619047619047616,0.0,Vireo Cavern Monitoring Site,eastern avelora agricultural cluster
+AVL-ABG,0.047619047619047616,0.0,Zephyr Reach Monitoring Site,eastern avelora agricultural cluster
+AVL-SEY,0.047619047619047616,0.0,Cedar Garden Monitoring Site,eastern avelora agricultural cluster
+AVL-HUA,0.06349206349206349,0.018433179723502304,Fern Meadow Monitoring Site,eastern avelora agricultural cluster
+AVL-FNM,0.047619047619047616,0.0,Ivory Valley Monitoring Site,eastern avelora agricultural cluster
+AVL-NMQ,0.09523809523809523,0.044034818228366614,Lotus Grove Monitoring Site,eastern avelora agricultural cluster
+AVL-FNQ,0.047619047619047616,0.0,Osprey Coast Monitoring Site,eastern avelora agricultural cluster
+TMB-HVD,0.047619047619047616,0.0,Rattan Ridge Monitoring Site,tembara coastal cluster
+TMB-VZT,0.06349206349206349,0.01894521249359959,Umber Forest Monitoring Site,tembara coastal cluster
+TMB-CKU,0.06349206349206349,0.0035842293906810036,Yarrow Corridor Monitoring Site,tembara coastal cluster
+TMB-WYT,0.047619047619047616,0.0,Banyan Hollow Monitoring Site,tembara coastal cluster
+TMB-GWP,0.06349206349206349,0.02048131080389145,Ember Plateau Monitoring Site,tembara coastal cluster
+TMB-BRC,0.1111111111111111,0.02816180235535074,Heron Basin Monitoring Site,tembara coastal cluster
+TMB-SKZ,0.06349206349206349,0.0,Kora Wetland Monitoring Site,tembara coastal cluster
+TMB-UVF,0.047619047619047616,0.0,Nerine Reserve Monitoring Site,tembara coastal cluster
+TMB-HFR,0.06349206349206349,0.0056323604710701485,Quartz Orchard Monitoring Site,tembara coastal cluster
+TMB-GZX,0.047619047619047616,0.0056323604710701485,Tamarind Cavern Monitoring Site,tembara coastal cluster
+TMB-AYQ,0.06349206349206349,0.0035842293906810036,Willow Reach Monitoring Site,tembara coastal cluster
+TMB-HQL,0.06349206349206349,0.0015360983102918587,Amber Garden Monitoring Site,tembara coastal cluster
+TMB-XTD,0.1111111111111111,0.009728622631848437,Dune Meadow Monitoring Site,tembara coastal cluster
+TMB-WST,0.07936507936507936,0.0030721966205837174,Garnet Valley Monitoring Site,tembara coastal cluster
+TMB-SXP,0.06349206349206349,0.014848950332821301,Juniper Grove Monitoring Site,tembara coastal cluster
+TMB-WQL,0.07936507936507936,0.0056323604710701485,Mango Coast Monitoring Site,tembara coastal cluster
+TMB-QCB,0.07936507936507936,0.014848950332821301,Pandan Ridge Monitoring Site,tembara coastal cluster
+TMB-DLQ,0.047619047619047616,0.0,Sable Forest Monitoring Site,tembara coastal cluster
